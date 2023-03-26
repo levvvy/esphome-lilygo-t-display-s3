@@ -1,0 +1,9 @@
+{
+  "chipFamily": "ESP32",
+  "parts": [
+    {
+      "path": "esphome-lilygotdisplays3-esp32/esphome-lilygotdisplays3-esp32.bin",
+      "offset": 0
+    }
+  ]
+}
