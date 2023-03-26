@@ -1,4 +1,4 @@
-# Lilygo T-Display-S3 ESPHome Implementation 🌐
+# Lilygo T-Display-S3 ESPHome Implementation
 
 [![GitHub release](https://img.shields.io/github/release/levvvy/esphome-lilygo-t-display-s3.svg)](https://github.com/levvvy/esphome-lilygo-t-display-s3/releases)
 [![GitHub issues](https://img.shields.io/github/issues/levvvy/esphome-lilygo-t-display-s3.svg)](https://github.com/levvvy/esphome-lilygo-t-display-s3/issues)
