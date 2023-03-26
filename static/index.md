@@ -38,9 +38,6 @@
 - [Troubleshooting](#troubleshooting)
 - [License and Credits](#license-and-credits)
 
-<details>
-  <summary>Click to expand!</summary>
-  
   ## Features and Requirements 🔧💻
 
   ### Features:
