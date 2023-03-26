@@ -1,6 +1,6 @@
 # About
 
-Add some information about your project here.
+This repository provides an implementation of Lilygo T-Display-S3 with ESPHome
 
 # Installation
 
